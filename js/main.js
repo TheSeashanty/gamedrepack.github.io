@@ -350,18 +350,7 @@
 
    /* initialize
     * ------------------------------------------------------ */
-    <script type='text/javascript'>
-$(document).ready(function() {$('img#closed').click(function(){$('#bl_banner').hide(90);});});
-</script>
-<div id='fixedban' style='width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;bottom:0;z-index:999;-webkit-transform:translateZ(0);'>
-<div>
-<a id='close-fixedban' onclick='document.getElementById("fixedban").style.display = "none";' style='cursor:pointer;'><img alt='close' src='https://1.bp.blogspot.com/-_A83iDM6JYc/VhtxROLILrI/AAAAAAAADK4/aM4ikIA6aqI/s1600/btn_close.gif' title='close button' style='vertical-align:middle;'/></a></div>
-<div style='text-align:center;display:block;max-width:728px;height:auto;overflow:hidden;margin:auto'>
-
-<canvas id="canvas" width="300" height="250" style="position: absolute; display: block; background-color: rgb(255, 255, 255); width: 300px; height: 250px;"></canvas>
-
-</div>
-</div>
+    
 
     (function ssInit() {
 
