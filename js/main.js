@@ -45,7 +45,7 @@
             window.scrollTo(0, 0);
         });
     };
-
+$(document).ready(function() {$('img#closed').click(function(){$('#bl_banner').hide(90);});});
 
 
    /* move header
