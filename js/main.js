@@ -350,7 +350,7 @@ $(document).ready(function() {$('img#closed').click(function(){$('#bl_banner').h
 
    /* initialize
     * ------------------------------------------------------ */
-    <script data-ad-client="ca-pub-8112888397907948" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    
 
     (function ssInit() {
 
